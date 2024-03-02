@@ -10,6 +10,9 @@
   margin-top: 70px;
   display: inline-block;
 }
+.left img{
+	width:200px;
+}
 
 .right {
   display: flex;
